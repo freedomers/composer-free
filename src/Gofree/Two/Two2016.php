@@ -6,6 +6,6 @@ class Two2016
 {
     public static function info()
     {
-        echo "This is Gofree Two2016!<br /> ";
+        echo "This is Gofree Two2016 v1.0.2!<br /> ";
     }
 }
